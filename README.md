@@ -18,6 +18,6 @@ void main() async {
 
 # Launch (your script)
 ```
-dart run main.dart
 dart pub get 
+dart run main.dart
 ```
